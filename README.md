@@ -1,5 +1,6 @@
 pinax-project-static
 ====================
+[![Join us on Slack](http://slack.pinaxproject.com/badge.svg)](http://slack.pinaxproject.com/)
 
 This purpose of this starter project is to provide a robust mocking and design
 tool.
