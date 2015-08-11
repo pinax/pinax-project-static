@@ -1,2 +1,0 @@
-Django==1.6.1
-pinax-theme-bootstrap==5.0.1
